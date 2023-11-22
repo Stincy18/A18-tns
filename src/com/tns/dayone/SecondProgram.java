@@ -1,4 +1,4 @@
-package com.tnsif.dayone;
+package com.tns.dayone;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.tnsif.daytwo;
+package com.tns.daytwo;
 
 public class DoWhile{
 	public static void main(String[] args) {
